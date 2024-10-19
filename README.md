@@ -47,5 +47,6 @@ Additional Metrics: Incorporating customer demographic data for more personalize
 I'm always looking to improve! Feel free to suggest improvements or additional analyses. Your input is invaluable!
 
 🔗 Connect with Me
-LinkedIn: Sunilkumar DS
+LinkedIn: [Sunilkumar DS ](https://www.linkedin.com/in/sunilkumar-ds/)
+
 Email: sunilshineyellow@gmail.com
